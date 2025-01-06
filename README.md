@@ -15,7 +15,9 @@ The dataset used for this project is sourced from **Kaggle** and contains detail
 The dataset used for this project is available on **Kaggle**:
 
 [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 [Google Colab Link](https://colab.research.google.com/github/Rahulaggl/Credit_card_Fd/blob/main/CCD.ipynb#scrollTo=w3vuiKq6rqx1)
+
 It contains features such as:
 
 - **Transaction Amount**: The monetary value of the transaction.
